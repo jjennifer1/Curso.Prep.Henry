@@ -1,0 +1,3 @@
+textojenn.txt
+hola que tal?
+esto es un archivo de prueba
